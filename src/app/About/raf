@@ -1,0 +1,89 @@
+<div className='bg-[#C3CA92] w-full  h-[555px]'>
+
+      
+
+        <div className=''>
+            <h1 className='flex items-center justify-center text-4xl pt-5 font-bold'>About Nature's Nest</h1>
+            <ul>
+                <li className='pl-3 font-medium underline pt-4 text-2xl'>Introduction</li>
+                <p className='pt-4 pl-4 font-medium '>"Welcome to Nature's Nest We’re passionate about bringing the beauty of nature into your home and life.
+                     Our mission is to make plants accessible, enjoyable, and a source of inspiration for everyone."</p>
+            </ul>
+        </div>
+
+        <div className=''>
+           
+            <ul>
+                <li className='pl-3 font-medium underline pt-4 text-2xl'>Mission Statement</li>
+                <p className='pt-4 pl-4 font-medium '>"Our goal is to cultivate a greener, healthier world by connecting people
+                     with plants that suit their lifestyle and space."
+                     </p>
+            </ul>
+        </div>
+
+        <div className=''>
+           
+            <ul>
+                <li className='pl-3 font-medium underline pt-4 text-2xl'>What You Offer</li>
+                <p className='pt-4 pl-4 font-medium '>"We specialize in indoor plants, outdoor greenery, pots, accessories,
+                 and personalized plant care guides tailored to your needs."
+                     </p>
+            </ul>
+        </div>
+        <div className=''>
+           
+           <ul>
+               <li className='pl-3 font-medium underline pt-4 text-2xl'>Values and Commitment</li>
+               <p className='pt-4 pl-4 font-medium '>"We are committed to sustainability, sourcing ethically, 
+                and supporting local nurseries and artisans."
+                    </p>
+           </ul>
+       </div>
+
+       <div className=''>
+           
+           <ul>
+               <li className='pl-3 font-medium underline pt-4 text-2xl'>Call to Action</li>
+               <p className='pt-4 pl-4 font-medium '>"Join our growing community of plant lovers! Explore our collection or reach out for tips, advice, and support on your plant journey."
+
+
+                    </p>
+           </ul>
+       </div>
+       
+   
+
+      
+    </div>
+
+
+
+
+    navbar
+
+    <nav className="bg-[#A4B17B] text-black p-4">
+    <div className="container mx-auto flex justify-between items-center">
+     
+    <h1 className='flex font-bold font-serif text-2xl underline'>Nature's Nest</h1>
+  
+      
+      <div className="flex-grow text-center">
+        <ul className="flex justify-center space-x-6">
+          <li><a href="#" className="hover:text-black">Home</a></li>
+          <li><a href="/Shop" className="hover:text-black">Shop</a></li>
+          <li><a href="About" className="hover:text-black">About</a></li>
+          <li><a href="Contact" className="hover:text-black">Contact</a></li>
+        </ul>
+      </div>
+      
+      
+      <div className="flex items-center text-2xl space-x-6">
+        
+          < CiSearch/>
+          <CiHeart/>
+          <AiOutlineShoppingCart/>
+        
+       
+      </div>
+    </div>
+  </nav>
