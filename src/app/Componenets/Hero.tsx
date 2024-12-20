@@ -18,6 +18,8 @@ const Hero = () => {
 
   {/* Right Content */}
   <div className="w-full md:w-[50%] flex justify-center items-center mt-8 md:mt-0"  >
+
+   
     <img
       src="mainpot.png" 
       alt="sofa"

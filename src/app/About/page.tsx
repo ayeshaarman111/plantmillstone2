@@ -15,7 +15,7 @@ const page = () => {
             Introduction
           </li>
           <p className='pt-4 pl-4 font-medium text-sm md:text-base'>
-            "Welcome to Nature's Nest! We’re passionate about bringing the beauty of nature into your home and life.
+            "Welcome to Nature's Nest! We are passionate about bringing the beauty of nature into your home and life.
             Our mission is to make plants accessible, enjoyable, and a source of inspiration for everyone."
           </p>
         </ul>
@@ -41,7 +41,7 @@ const page = () => {
             What You Offer
           </li>
           <p className='pt-4 pl-4 font-medium text-sm md:text-base'>
-            "We specialize in indoor plants, outdoor greenery, pots, accessories,
+            "We specialize in indoor plants outdoor greenery pots accessories
             and personalized plant care guides tailored to your needs."
           </p>
         </ul>

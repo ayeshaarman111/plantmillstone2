@@ -1,6 +1,4 @@
 import React from 'react'
-import { FaClock } from "react-icons/fa";
-import { SlCalender } from "react-icons/sl";
 
 const Footer = () => {
   return (
