@@ -22,7 +22,7 @@ const page = () => {
           {/* Post 1 */}
           <div className="w-full md:w-1/3 text-center">
             <Image
-              src="/pot1.jpg"
+              src="/images/pot1.jpg"
               alt="sofaone"
               className="rounded-lg w-full h-64 object-cover"
               height={300}
@@ -38,7 +38,7 @@ const page = () => {
           {/* Post 2 */}
           <div className="w-full md:w-1/3 text-center">
             <Image
-              src="/pot2.jpg"
+              src="/images/pot2.jpg"
               alt="palant"
               className="rounded-lg w-full h-64 object-cover"
               height={300}
@@ -54,7 +54,7 @@ const page = () => {
           {/* Post 3 */}
           <div className="w-full md:w-1/3 text-center">
             <Image
-              src="/pot3.jpg"
+              src="/images/pot3.jpg"
               alt="sofathree"
               className="rounded-lg w-full h-64 object-cover"
               height={300}
@@ -73,7 +73,7 @@ const page = () => {
          {/* post 4*/}
           <div className="w-full md:w-1/3 text-center">
             <Image
-              src="/pot4.jpg"
+              src="/images/pot4.jpg"
               alt="sofafour"
               className="rounded-lg w-full h-64 object-cover"
               height={300}
@@ -99,7 +99,7 @@ const page = () => {
           {/* Post 5 */}
           <div className="w-full md:w-1/3 text-center">
             <Image
-              src="/pot5.jpg"
+              src="/images/pot5.jpg"
               alt="plant"
               className="rounded-lg w-full h-64 object-cover"
               height={300}
@@ -117,7 +117,7 @@ const page = () => {
              {/* Post 6*/}
           <div className="w-full md:w-1/3 text-center">
             <Image
-              src="/pot9.jpg"
+              src="/images/pot9.jpg"
               alt="plant"
               className="rounded-lg w-full h-64 object-cover"
               height={300}
@@ -133,7 +133,7 @@ const page = () => {
           {/* Post 7 */}
           <div className="w-full md:w-1/3 text-center">
             <Image
-              src="/pot7.webp"
+              src="/images/pot7.webp"
               alt="plant"
               className="rounded-lg w-full h-64 object-cover"
               height={300}
@@ -148,7 +148,7 @@ const page = () => {
          {/* post 8*/}
           <div className="w-full md:w-1/3 text-center">
             <Image
-              src="/pot8.webp"
+              src="/images/pot8.webp"
               alt="plant"
               className="rounded-lg w-full h-64 object-cover"
               height={300}
