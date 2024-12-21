@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Image from 'next/image'
 
 const page = () => {
     return (
@@ -13,7 +13,7 @@ const page = () => {
         <div className="flex items-center justify-center mt-4 px-4">
           <p className="text-[#354C2B] text-center text-sm sm:text-base md:text-lg">
           We specialize in bringing nature closer to you with carefully curated plants, pots, and accessories.
-         Whether you're a seasoned plant parent or just starting your green journey
+         Whether you&quot;re a seasoned plant parent or just starting your green journey
           </p>
         </div>
       
@@ -21,10 +21,12 @@ const page = () => {
         <div className="flex flex-col md:flex-row md:space-x-6 mt-8 space-y-8 md:space-y-0 justify-center items-center px-4">
           {/* Post 1 */}
           <div className="w-full md:w-1/3 text-center">
-            <img
+            <Image
               src="/pot1.jpg"
               alt="sofaone"
               className="rounded-lg w-full h-64 object-cover"
+              height={300}
+              width={300}
             />
             <p className="mt-4 text-lg font-semibold">
             Parsley
@@ -35,10 +37,12 @@ const page = () => {
       
           {/* Post 2 */}
           <div className="w-full md:w-1/3 text-center">
-            <img
+            <Image
               src="/pot2.jpg"
               alt="palant"
               className="rounded-lg w-full h-64 object-cover"
+              height={300}
+              width={300}
             />
             <p className="mt-4 text-lg font-semibold">
             Alovera Plant
@@ -49,10 +53,12 @@ const page = () => {
       
           {/* Post 3 */}
           <div className="w-full md:w-1/3 text-center">
-            <img
+            <Image
               src="/pot3.jpg"
               alt="sofathree"
               className="rounded-lg w-full h-64 object-cover"
+              height={300}
+              width={300}
             />
             <p className="mt-4 text-lg font-semibold">
             Mud pot
@@ -66,10 +72,12 @@ const page = () => {
 
          {/* post 4*/}
           <div className="w-full md:w-1/3 text-center">
-            <img
+            <Image
               src="/pot4.jpg"
               alt="sofafour"
               className="rounded-lg w-full h-64 object-cover"
+              height={300}
+              width={300}
             />
             <p className="mt-4 text-lg font-semibold">
             Plant Love
@@ -90,10 +98,12 @@ const page = () => {
         <div className="flex flex-col md:flex-row md:space-x-6 mt-8 space-y-8 md:space-y-0 justify-center items-center px-4">
           {/* Post 5 */}
           <div className="w-full md:w-1/3 text-center">
-            <img
+            <Image
               src="/pot5.jpg"
               alt="plant"
               className="rounded-lg w-full h-64 object-cover"
+              height={300}
+              width={300}
             />
             <p className="mt-4 text-lg font-semibold">
             Lavender Flower with pot
@@ -106,10 +116,12 @@ const page = () => {
 
              {/* Post 6*/}
           <div className="w-full md:w-1/3 text-center">
-            <img
+            <Image
               src="/pot9.jpg"
               alt="plant"
               className="rounded-lg w-full h-64 object-cover"
+              height={300}
+              width={300}
             />
             <p className="mt-4 text-lg font-semibold">
            Glass Pot With Green Leave
@@ -120,10 +132,12 @@ const page = () => {
       
           {/* Post 7 */}
           <div className="w-full md:w-1/3 text-center">
-            <img
+            <Image
               src="/pot7.webp"
               alt="plant"
               className="rounded-lg w-full h-64 object-cover"
+              height={300}
+              width={300}
             />
             <p className="mt-4 text-lg font-semibold">
            Simple Pot With Green Leave
@@ -133,10 +147,12 @@ const page = () => {
 
          {/* post 8*/}
           <div className="w-full md:w-1/3 text-center">
-            <img
+            <Image
               src="/pot8.webp"
               alt="plant"
               className="rounded-lg w-full h-64 object-cover"
+              height={300}
+              width={300}
             />
             <p className="mt-4 text-lg font-semibold">
             Aesthetic Pot for Aesthetic Home

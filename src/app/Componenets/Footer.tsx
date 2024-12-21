@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="container mx-auto px-4 text-center">
       <div className="flex flex-col sm:flex-row justify-between items-center">
         <div className="mb-4 sm:mb-0">
-          <h3 className="text-xl font-bold">Nature's Nest</h3>
+          <h3 className="text-xl font-bold">Nature&quot;s Nest</h3>
           <p className="text-sm">Your green companion for a sustainable lifestyle</p>
         </div>
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-x-6 sm:space-y-0">
@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="pt-4">
-        <p className="text-xs">&copy; 2024 Nature's Nest. All Rights Reserved.</p>
+        <p className="text-xs">&copy; 2024 Nature&quot;s Nest. All Rights Reserved.</p>
       </div>
     </div>
   </footer>
