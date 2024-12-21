@@ -5,7 +5,7 @@ const page = () => {
     <div className='bg-[#C3CA92] w-full h-auto md:h-[555px] px-4 md:px-8'>
     <div className='text-center'>
       <h1 className='text-2xl md:text-4xl pt-5 font-bold'>
-        About Nature's Nest
+        About Nature&apos;s Nest
       </h1>
       
       {/* Introduction */}
@@ -15,8 +15,8 @@ const page = () => {
             Introduction
           </li>
           <p className='pt-4 pl-4 font-medium text-sm md:text-base'>
-            "Welcome to Nature's Nest! We are passionate about bringing the beauty of nature into your home and life.
-            Our mission is to make plants accessible, enjoyable, and a source of inspiration for everyone."
+          &apos;Welcome to Nature&apos;s Nest! We are passionate about bringing the beauty of nature into your home and life.
+            Our mission is to make plants accessible, enjoyable, and a source of inspiration for everyone.&apos;
           </p>
         </ul>
       </div>
@@ -28,8 +28,8 @@ const page = () => {
             Mission Statement
           </li>
           <p className='pt-4 pl-4 font-medium text-sm md:text-base'>
-            "Our goal is to cultivate a greener, healthier world by connecting people
-            with plants that suit their lifestyle and space."
+          &quot;Our goal is to cultivate a greener, healthier world by connecting people
+            with plants that suit their lifestyle and space.&quot;
           </p>
         </ul>
       </div>
@@ -41,8 +41,8 @@ const page = () => {
             What You Offer
           </li>
           <p className='pt-4 pl-4 font-medium text-sm md:text-base'>
-            "We specialize in indoor plants outdoor greenery pots accessories
-            and personalized plant care guides tailored to your needs."
+          &quot;We specialize in indoor plants outdoor greenery pots accessories
+            and personalized plant care guides tailored to your needs.&quot;
           </p>
         </ul>
       </div>
@@ -54,8 +54,8 @@ const page = () => {
             Values and Commitment
           </li>
           <p className='pt-4 pl-4 font-medium text-sm md:text-base'>
-            "We are committed to sustainability, sourcing ethically, 
-            and supporting local nurseries and artisans."
+          &quot;We are committed to sustainability, sourcing ethically, 
+            and supporting local nurseries and artisans.&quot;
           </p>
         </ul>
       </div>

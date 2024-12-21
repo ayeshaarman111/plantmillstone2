@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 
 const Hero = () => {
@@ -20,10 +21,12 @@ const Hero = () => {
   <div className="w-full md:w-[50%] flex justify-center items-center mt-8 md:mt-0"  >
 
    
-    <img
+    <Image
       src="mainpot.png" 
       alt="sofa"
       className="max-w-full h-auto md:h-[400px] md:w-[540px] object-contain " 
+      height={400}
+      width={400}
     />
   </div>
 </div>

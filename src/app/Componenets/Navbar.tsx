@@ -1,7 +1,4 @@
 'use client';
-
-
-
 import { useState } from 'react';
 import { CiSearch, CiHeart } from 'react-icons/ci';
 import { AiOutlineShoppingCart } from 'react-icons/ai';
@@ -19,7 +16,7 @@ const Navbar = () => {
     <nav className="bg-[#A4B17B] text-black p-4">
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
-        <h1 className="font-bold font-serif text-2xl underline">Nature's Nest</h1>
+        <h1 className="font-bold font-serif text-2xl underline">Nature&quot;s Nest</h1>
 
         {/* Desktop Navigation Links */}
         <div className="hidden md:flex flex-grow justify-center">
