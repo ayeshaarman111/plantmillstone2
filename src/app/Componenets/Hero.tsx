@@ -22,7 +22,7 @@ const Hero = () => {
 
    
     <Image
-      src="mainpot.png" 
+      src="/mainpot.png" 
       alt="sofa"
       className="max-w-full h-auto md:h-[400px] md:w-[540px] object-contain " 
       height={400}
